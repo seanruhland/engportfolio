@@ -8,6 +8,12 @@ a {
   color:#96ACB7;
 }
 
+#Skill li {
+  list-style-type: square;
+}
+#Córdoba-img {
+  margin-right:15px;
+}
 .experience-div{
   height: 900px;
   margin-top: 25px
@@ -34,7 +40,7 @@ a {
   width:200px;
   margin-right: 20px;
 }
- 
+
 .icons {
   margin-left: 20px;
   color:#4B4A67;
