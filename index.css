@@ -15,8 +15,12 @@ a {
   margin-right:15px;
 }
 .experience-div{
-  height: 900px;
+  height: 1000px;
   margin-top: 25px
+}
+
+.interest-div{
+  height: 500px;
 }
 #wrapper {
   padding-left: 250px;
@@ -27,12 +31,13 @@ a {
   font-weight: bold;
 }
 .skillDiv {
-  height:1000px;
-  margin-top: 40%;
+  height:800px;
+
 }
 .educationDiv {
-  height:1000px;
-  margin-top: 40%;
+  margin-top:10%;
+  height:750px;
+
 }
 
 #sammySlug {
@@ -118,6 +123,7 @@ a {
   font-size:20px;
 }
 
+
 @media (max-width:767px) {
 
     #wrapper {
@@ -138,5 +144,4 @@ a {
       width: 250px;
       transition: all 0.4s ease 0s;
     }
-
 }

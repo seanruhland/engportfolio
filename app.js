@@ -8,7 +8,7 @@ $(document).ready(function(){
 		e.preventDefault();
 		$('body, html').animate({
 			scrollTop:$(this.hash).offset().top
-		}, 2000 );
+		}, 1000 );
 	})
 
 	//Active link switching
